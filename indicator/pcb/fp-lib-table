@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "guva-s12sd")(type "KiCad")(uri "${KIPRJMOD}/footprints/guva-s12sd.pretty")(options "")(descr ""))
+  (lib (name "DS18B20")(type "KiCad")(uri "${KIPRJMOD}/footprints/DS18B20.pretty")(options "")(descr ""))
+  (lib (name "Arduino_ISPProgrammer")(type "KiCad")(uri "${KIPRJMOD}/footprints/Arduino_ISPProgrammer.pretty")(options "")(descr ""))
+)

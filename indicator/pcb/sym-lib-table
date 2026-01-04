@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "guva_s12sd")(type "KiCad")(uri "${KIPRJMOD}/symbols/guva_s12sd.kicad_sym")(options "")(descr ""))
+  (lib (name "DS18B20")(type "KiCad")(uri "${KIPRJMOD}/symbols/DS18B20.kicad_sym")(options "")(descr ""))
+  (lib (name "Arduino_ISPProgrammer")(type "KiCad")(uri "${KIPRJMOD}/symbols/Arduino_ISPProgrammer.kicad_sym")(options "")(descr ""))
+)
