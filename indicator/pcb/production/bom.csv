@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0402,2,22pF ceramic,
+"C3, C4",1206,2,10µF-50V electrolytic,
+R1,0402,1,4.7kΩ,
+R3,0603,1,10kΩ,
+U1,DS18B20-MSKSEMI,1,DS18B20,
+U2,SZFYDOSH_11x27mm_Sensor,1,GUVA-S12SD,
+U3,DIP-28_W7.62mm,1,ATmega328P-P,
+U4,TO-220-3_Vertical,1,LM7805_TO220,
+U5,4-Wire-SPI,1,4-Wire-SPI,
+Y1,Crystal_HC49-U_Vertical,1,CrystalOscillator_16MHz,
