@@ -1,9 +1,16 @@
-"Name","Quantity","Price (per part)","Link"
-"GUVA-S12SD UV Sensor Photodiode","1","$1.76","https://www.aliexpress.us/item/3256806350705812.html"
-"DS18B20 Temperature Sensor","1","$0.2328","https://jlcpcb.com/partdetail/MSKSEMI-DS18B20MS/C5379069"
-"Ceramic Capacitor SMD","2","$0.0007","https://jlcpcb.com/partdetail/1907-0402CG220J500NT/C1555"
-"Electrolytic Capacitor SMD","2","$0.0332","https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585"
-"Probe Housing","1","$0.3170","https://www.aliexpress.us/item/3256807782132862.html"
-"Epoxy resin","~1 mL","$0.01","https://www.walmart.com/ip/Epoxy-Resin-1-Gallon-Kit-Art-Resin-for-DIY-Jewelry-Tabletops-Crystal-Clear-High-Performance-Resin-Epoxy/5478464246?wmlspartner=imp_27795"
-"Membrane fiber filter","1","$0.29","https://grupovoces.com/products/47mm-glass-fiber-filters-advantec-gc-90-100-pk-advantec"
-"Clarified polypropylene (PP)","~7.5 g","$0.0075","Would need to contact a factory or ODM. Price taken from internet averages."
+Name,Quantity,Price (per part),Link
+GUVA-S12SD UV Sensor Photodiode,1,$1.76,https://www.aliexpress.us/item/3256806350705812.html
+DS18B20 Temperature Sensor,1,$0.2328,https://jlcpcb.com/partdetail/MSKSEMI-DS18B20MS/C5379069
+Ceramic Capacitor SMD,2,$0.0007,https://jlcpcb.com/partdetail/1907-0402CG220J500NT/C1555
+Electrolytic Capacitor SMD,2,$0.0332,https://jlcpcb.com/partdetail/14236-CL31A106KBHNNNE/C13585
+4.7kΩ SMD Resistor,1,$0.0006,https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900
+10kΩ SMD Resistor,1,$0.001,https://jlcpcb.com/partdetail/16079-0603WAJ0103T5E/C15401
+ATMEGA328P-PU Microcontroller,1,$2.2431,https://jlcpcb.com/partdetail/MicrochipTech-ATMEGA328PPU/C33901
+LM7805-TO220 Voltage Regulator,1,$0.2084,https://jlcpcb.com/partdetail/6334298-LM7805CT/C5444281
+Crystal Oscillator 16MHz,1,$0.1038,https://jlcpcb.com/partdetail/TAITIENElec-XIHCELNANF16MHZ/C295075
+Probe Housing,1,$0.3170,https://www.aliexpress.us/item/3256807782132862.html
+Epoxy resin,~1 mL,$0.01,https://www.walmart.com/ip/Epoxy-Resin-1-Gallon-Kit-Art-Resin-for-DIY-Jewelry-Tabletops-Crystal-Clear-High-Performance-Resin-Epoxy/5478464246?wmlspartner=imp_27795
+Membrane fiber filter,1,$0.29,https://grupovoces.com/products/47mm-glass-fiber-filters-advantec-gc-90-100-pk-advantec
+Clarified polypropylene (PP),~7.5 g,$0.0075,Would need to contact a factory or ODM. Price taken from internet averages.
+JLCPCB PCB,1,$1.06 ($7.45 with PCBA),https://jlcpcb.com/
+Total,,,$6.34/bottle ($12.73 with PCBA)
