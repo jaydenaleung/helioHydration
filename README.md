@@ -1,7 +1,7 @@
 # Helio Hydration - 3-Stage SODIS-Enhancing Water Bottle
 Three-stage solar water disinfection (SODIS)-enhancing low-cost water bottle for NGO distribution to underserved and impoverished areas globally.
 
-picture of entire cad model
+<img width="476" height="1045" alt="Screenshot 2026-01-11 171030" src="https://github.com/user-attachments/assets/fae78883-3cb1-4cc2-ad3e-a362f368bb61" />
 
 ## Overview
 
@@ -19,11 +19,11 @@ The mechanical structure is comprised of a body, a filter, and an indicator with
 
 Using the OneWire and DallasTemperature Arduino libraries, both the measured voltage from the UV photodiode sensor and the Celsius temperature from the temperature are gleaned. The following theoretical function calculates the number of log reductions at a specific time:
 
-picture of function
+<img width="1002" height="348" alt="Screenshot 2026-01-11 172412" src="https://github.com/user-attachments/assets/785497c3-9eac-49d5-a1c5-150b7eefcdff" />
 
 For the Arduino MCU, this function is used (using a discrete delta t):
 
-picture of function
+<img width="330" height="98" alt="Screenshot 2026-01-11 172418" src="https://github.com/user-attachments/assets/de469698-63f2-4ae0-b4bc-d8e47bd9ef73" />
 
 I quite enjoyed applying the volume revolution and bacterial decay formulas I learned from AP Calculus BC this year. I've never really had a project where my class knowledge helped me so much. See the journal for more details.
 
